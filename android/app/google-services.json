@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661212215604",
+    "project_id": "pemrogramanmobile-bbfc6",
+    "storage_bucket": "pemrogramanmobile-bbfc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661212215604:android:41dc93f5a22af365c2cd61",
+        "android_client_info": {
+          "package_name": "com.example.Samuel_Sirait"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_NJrltC0NGTh7lr9UgdfGUcxaTv1XngM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
